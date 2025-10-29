@@ -68,7 +68,7 @@ hobbies: ["Adrenalin Sport", "Cinema", "Skateboarding", "Art", "Hiking"]
                 
 </p>
 
-![snake gif](https://github.com/Kornelius1/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Kornelius1/smart_reservation_system/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
