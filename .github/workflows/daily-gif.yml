@@ -1,0 +1,37 @@
+name: Update Daily GIF
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # dijalankan tiap tengah malam UTC
+  workflow_dispatch: # agar bisa dijalankan manual juga
+
+jobs:
+  update-gif:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update README with today's GIF
+        run: |
+          DAY=$(date +%u) # 1=Senin ... 7=Minggu
+          declare -a GIFS=(
+            "https://media3.giphy.com/media/3YamJ9YSSRqFhsBya0/giphy.gif" # Monday
+            "https://media.giphy.com/media/jRVNKe1ajM8v33OsLJ/giphy.gif" # Tuesday
+            "https://media3.giphy.com/media/BVSMbtX5ZRGqwnCQnX/giphy.gif" # Wednesday
+            "https://media.giphy.com/media/3Bo8qJYJ3ON5Paiqaj/giphy.gif" # Thursday
+            "https://media.giphy.com/media/1APaqOO5JHnWKLc7Bi/giphy.gif" # Friday
+            "https://media.giphy.com/media/mWrXc8R1CJQxq/giphy.gif" # Saturday
+            "https://media.giphy.com/media/0PWhEdaJI0RcgtpfMP/giphy.gif" # Sunday
+          )
+          GIF=${GIFS[$((DAY-1))]}
+
+          # Ganti baris yang berisi tag <img ...> di README.md
+          sed -i "s|<img align=.*>|<img align=\"center\" height=200 src=\"$GIF\"/>|" README.md
+
+          # Commit dan push perubahan
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update GIF for day $DAY" || echo "No changes to commit"
+          git push
