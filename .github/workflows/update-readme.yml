@@ -1,0 +1,51 @@
+name: Update README Daily GIF
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # jalan tiap hari jam 00:00 UTC (pagi sekitar 07:00 WIB)
+  workflow_dispatch: # bisa dijalankan manual dari tab Actions
+
+permissions:
+  contents: write # izinkan bot mengubah isi repo (README.md)
+
+jobs:
+  update-gif:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set current day
+        id: day
+        run: echo "DAY=$(date +%u)" >> $GITHUB_ENV
+        # 1 = Senin ... 7 = Minggu
+
+      - name: Update README GIF
+        run: |
+          DAY=$DAY
+          echo "Hari ke-$DAY"
+
+          # Siapkan array link GIF untuk setiap hari
+          declare -A GIFS=(
+            [1]="https://media3.giphy.com/media/3YamJ9YSSRqFhsBya0/giphy.gif"
+            [2]="https://media.giphy.com/media/jRVNKe1ajM8v33OsLJ/giphy.gif"
+            [3]="https://media3.giphy.com/media/BVSMbtX5ZRGqwnCQnX/giphy.gif"
+            [4]="https://media.giphy.com/media/3Bo8qJYJ3ON5Paiqaj/giphy.gif"
+            [5]="https://media.giphy.com/media/1APaqOO5JHnWKLc7Bi/giphy.gif"
+            [6]="https://media.giphy.com/media/mWrXc8R1CJQxq/giphy.gif"
+            [7]="https://media.giphy.com/media/0PWhEdaJI0RcgtpfMP/giphy.gif"
+          )
+
+          SELECTED_GIF=${GIFS[$DAY]}
+
+          # Update baris <img> di README.md dengan link GIF hari ini
+          sed -i -E "s|<img align=\"center\" height=200 src=\"[^\"]+\"/>|<img align=\"center\" height=200 src=\"$SELECTED_GIF\"/>|" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔁 Update GIF for day $DAY" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
