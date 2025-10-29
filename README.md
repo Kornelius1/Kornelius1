@@ -62,4 +62,5 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/Kornelius1/Kornelius1/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Kornelius1/Kornelius1/blob/output/github-contribution-grid-snake.svg)
+
