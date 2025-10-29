@@ -4,7 +4,11 @@ on:
   schedule:
     # Jalankan setiap 12 jam
     - cron: "0 */12 * * *"
-  workflow_dispatch: # bisa dijalankan manual juga
+  workflow_dispatch: 
+
+
+  permissions:
+  contents: write
 
 jobs:
   build:
