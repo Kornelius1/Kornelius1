@@ -68,5 +68,11 @@ hobbies: ["Adrenalin Sport", "Cinema", "Skateboarding", "Art", "Hiking"]
                 
 </p>
 
-![snake gif](https://github.com/Kornelius1/Kornelius1/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Kornelius1/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
+</p>
+
 
