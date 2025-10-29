@@ -21,16 +21,15 @@
 
 ---
 ```yaml 
-name: Piyush Malhotra
-located_in: Calgary, Alberta
+name: Kornelius Jonathan
+located_in: Medan, Indonesia
 current_job: Full Stack Developer
 education:
   [
+    "Bachelor of Computer Science",
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
   ]
-company: Soulber
+company: -
 
 fields_of_interests:
   [
@@ -38,28 +37,35 @@ fields_of_interests:
     "Data Science",
     "Machine Learning",
     "UI/UX",
-    "Game Development",
+    "Data Engineer",
     "DevOps",
   ]
 technical_background:
   [
     "Full Stack Developer"
-    "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
     "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Docker, and React Bits"]
+2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Adrenalin Sport", "Cinema", "Skateboarding", "Art", "Hiking"]
 ```
-
+<!-- https://devicon.dev/ -->
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/>
+<i class="devicon-laravel-original-wordmark" width="45" height="45"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
+                
 </p>
 
 ![snake gif](https://github.com/Kornelius1/Kornelius1/blob/output/github-contribution-grid-snake.svg)
