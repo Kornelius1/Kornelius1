@@ -22,7 +22,7 @@ jobs:
 
    
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: Kornelius1
