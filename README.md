@@ -67,6 +67,7 @@ hobbies: ["Adrenalin Sport", "Cinema", "Skateboarding", "Art", "Hiking"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
                 
 </p>
+![snake gif](https://github.com/Kornelius1/Kornelius1/blob/output/github-contribution-grid-snake.svg)
 
 ![snake gif]
 <img src="https://raw.githubusercontent.com/Kornelius1/Kornelius1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
