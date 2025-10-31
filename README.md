@@ -6,7 +6,7 @@
 - 🔭 I am currently studying at a university where many of the buildings are abandoned. 😅
 - 🌱 I’m currently learning AI tools, prompt engineering, and how to make code look less like spaghetti 🍝
 - 👯 I’m looking to collaborate on creative web apps with fun UI/UX concepts
-- 🤔 I’m looking for help with finding motivation after debugging for 3 hours straigh
+- 🤔 I’m looking for help with finding motivation after debugging for 3 hours straight
 - 💬 Ask me about Vue, Laravel, TailwindCSS, or design that actually feels nice
 - 📫 How to reach me: Discord @korneliusj or Instagram @Korneliusj
 - 😄 Pronouns: He/Him
