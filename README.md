@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?text=HiKak!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
 </p>
 
-• Alumni of Universitas Riau with a background in Information Systems.
-• Expanding expertise in Artificial Intelligence, Machine Learning, and clean software architecture.
-• Open to collaborating on innovative web applications with a strong emphasis on UI/UX design.
-• Experienced in Laravel, Vue.js, Tailwind CSS, and intuitive interface design.
-• Contact me via Discord at @korneliusj or Instagram at @Korneliusj.
+* Alumni of Universitas Riau with a background in Information Systems.
+* Expanding expertise in Artificial Intelligence, Machine Learning, and clean software architecture.
+* Open to collaborating on innovative web applications with a strong emphasis on UI/UX design.
+* Experienced in Laravel, Vue.js, Tailwind CSS, and intuitive interface design.
+* Contact me via Discord at @korneliusj or Instagram at @Korneliusj.
 
 ---
 <div align="center">
