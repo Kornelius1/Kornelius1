@@ -2,15 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?text=HiKak!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
 </p>
 
-
-- 🔭 I am currently studying at a university where many of the buildings are abandoned. 😅
-- 🌱 I’m currently learning AI tools, prompt engineering, and how to make code look less like spaghetti 🍝
-- 👯 I’m looking to collaborate on creative web apps with fun UI/UX concepts
-- 🤔 I’m looking for help with finding motivation after debugging for 3 hours straight
-- 💬 Ask me about Vue, Laravel, TailwindCSS, or design that actually feels nice
-- 📫 How to reach me: Discord @korneliusj or Instagram @Korneliusj
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favorite debugging tool is console.log() (don’t judge).
+• Alumni of Universitas Riau with a background in Information Systems.
+• Expanding expertise in Artificial Intelligence, Machine Learning, and clean software architecture.
+• Open to collaborating on innovative web applications with a strong emphasis on UI/UX design.
+• Experienced in Laravel, Vue.js, Tailwind CSS, and intuitive interface design.
+• Contact me via Discord at @korneliusj or Instagram at @Korneliusj.
 
 ---
 <div align="center">
