@@ -18,11 +18,7 @@
 name: Kornelius Jonathan
 located_in: Medan, Indonesia
 current_job: Full Stack Developer
-education:
-  [
-    "Bachelor of Computer Science",
-    "Self-Taught Developer and Designer",
-  ]
+education: Bachelor of Computer Science
 company: -
 
 fields_of_interests:
@@ -42,7 +38,7 @@ technical_background:
   ]
   
 currently_learning: ["Docker, and React Bits"]
-2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2026 Goals: ["Create 10+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Adrenalin Sport", "Cinema", "Skateboarding", "Art", "Hiking"]
 ```
 <!-- https://devicon.dev/ -->
