@@ -10,7 +10,7 @@
 * Alumni of Universitas Riau with a background in Information Systems.
 * Expanding expertise in Artificial Intelligence, Machine Learning, and clean software architecture.
 * Open to collaborating on innovative web applications with a strong emphasis on UI/UX design.
-* Experienced in Laravel, Vue.js, Tailwind CSS, and intuitive interface design.
+* Experienced in Laravel, Vue.js, Tailwind CSS, Fast API, Spring-boot, and intuitive interface design.
 * Contact me via Discord at @korneliusj or Instagram at @Korneliusj.
 
 ---
