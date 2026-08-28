@@ -1,6 +1,11 @@
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?text=HelloWorld!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
-</p>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&text=HelloWorld!🕹️&fontSize=55&fontAlignY=35&animation=fadeIn"
+    width="100%"
+  />
+  <h3>Full Stack Developer • AI/ML Enthusiast • UI/UX</h3>
+</div>
 
 * Alumni of Universitas Riau with a background in Information Systems.
 * Expanding expertise in Artificial Intelligence, Machine Learning, and clean software architecture.
@@ -9,12 +14,14 @@
 * Contact me via Discord at @korneliusj or Instagram at @Korneliusj.
 
 ---
+
 <div align="center">
-  <img align="center" height=200 src="https://media.giphy.com/media/3Bo8qJYJ3ON5Paiqaj/giphy.gif"/>
+  <img height="200" src="https://media.giphy.com/media/3Bo8qJYJ3ON5Paiqaj/giphy.gif"/>
 </div>
 
 ---
-```yaml 
+
+```yaml
 name: Kornelius Jonathan
 located_in: Medan, Indonesia
 current_job: Full Stack Developer
@@ -27,42 +34,68 @@ fields_of_interests:
     "Data Science",
     "Machine Learning",
     "UI/UX",
-    "Data Engineer",
-    "DevOps",
+    "Data Engineering",
+    "DevOps"
   ]
+
 technical_background:
   [
-    "Full Stack Developer"
+    "Full Stack Developer",
     "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
+    "Intern - Internet of Things"
   ]
-  
-currently_learning: ["Docker, and React Bits"]
-2026 Goals: ["Create 10+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Adrenalin Sport", "Cinema", "Skateboarding", "Art", "Hiking"]
-```
+
+currently_learning:
+  [
+    "Docker",
+    "React Bits"
+  ]
+
+2026 Goals:
+  [
+    "Create 10+ Projects",
+    "Learn at least 5-10 new Technologies"
+  ]
+
+hobbies:
+  [
+    "Adrenaline Sports",
+    "Cinema",
+    "Skateboarding",
+    "Art",
+    "Hiking"
+  ]
+````
+
 <!-- https://devicon.dev/ -->
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
+<h2>&nbsp;Some Tools I Have Used and Learned</h2>
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/>
-<i class="devicon-laravel-original-wordmark" width="45" height="45"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
-                
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring boot" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij idea" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
 
 <img src="https://raw.github.com/Kornelius1/Kornelius1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=fadeIn"
+    width="100%"
+  />
 </p>
-
 
