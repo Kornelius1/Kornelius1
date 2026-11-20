@@ -1,101 +1,105 @@
+# Kornelius Jonathan Manik
 
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&text=HelloWorld!🕹️&fontSize=55&fontAlignY=35&animation=fadeIn"
-    width="100%"
-  />
-  <h3>Full Stack Developer • AI/ML Enthusiast • UI/UX</h3>
-</div>
+**Full Stack Developer · Backend & QA-minded Engineer**
+Medan, Indonesia · Information Systems graduate, Universitas Riau (GPA 3.73/4.00)
 
-* Alumni of Universitas Riau with a background in Information Systems.
-* Expanding expertise in Artificial Intelligence, Machine Learning, and clean software architecture.
-* Open to collaborating on innovative web applications with a strong emphasis on UI/UX design.
-* Experienced in Laravel, Vue.js, Tailwind CSS, Fast API, Spring-boot, and intuitive interface design.
-* Contact me via Discord at @korneliusj or Instagram at @Korneliusj.
+I build web applications and backend/API services with PHP/Laravel and Java/Spring Boot, including payment gateway integration. I document my work (SRS, user guides, README), test my own code, and collaborate through Git. **Available to join immediately.**
+
+📫 [LinkedIn](https://linkedin.com/in/kornelius-jonathan) · [Email](mailto:Korneliusjonathanmanik@gmail.com) · [Portfolio](https://www.phourto.my.id/) · Discord: `@korneliusj` · Instagram: [@Korneliusj](https://instagram.com/Korneliusj)
 
 ---
 
-<div align="center">
-  <img align="center" height=200 src="https://media.giphy.com/media/1APaqOO5JHnWKLc7Bi/giphy.gif"/>
-</div>
+## 🚀 Featured Projects
+
+### [Lentera Worship](https://github.com/Kornelius1/lentera-worship)
+Presentation software for song lyrics, Bible verses, and worship slides, built to make church services run smoother.
+**Tech:** Rust + Tauri · [Download latest release](https://github.com/Kornelius1/lentera-worship/releases)
+
+### [Booknauu: Backend Reservation & API Test Framework](https://github.com/Kornelius1/BookNauu)
+Test framework for a reservation backend: **70+ test scenarios across 9 modules** (Auth, Resource, Reservation, Team, etc.). Found **8 defects on the first run**, including misconfigured 404 responses and mismatches between OpenAPI documentation and actual responses.
+**Tech:** Python, Pytest
+
+### [Banking Ledger: Concurrency Test Suite](https://github.com/Kornelius1/ledger)
+Double-entry ledger service with **idempotency and pessimistic locking** to prevent double-spending. In a JMeter test, 10 concurrent transfers on a limited balance produced 1 success and 9 rejections, with no negative balance and a debit-credit difference of 0.00.
+**Tech:** Spring Boot, PostgreSQL, JMeter
+
+### [Smart Reservation System (Homey Café)](https://github.com/Kornelius1/smart_reservation_system)
+Table and room reservation system with **DOKU payment gateway integration**. Gathered requirements directly from the owner and documented them in an SRS, use case and activity diagrams, README, and user guide. Automated tests with Pest run before every push.
+**Tech:** Laravel 12, Blade, Tailwind CSS, DOKU
+
+### [PM2.5 Prediction with LightGBM and Quantum SVR (Thesis)](https://github.com/Kornelius1/Hybrid-Stacking-Ensemble)
+Processed and validated 10,000+ air quality records and evaluated model performance against a baseline.
+**Tech:** Python, LightGBM, Quantum SVR
 
 ---
 
-```yaml
-name: Kornelius Jonathan
-located_in: Medan, Indonesia
-current_job: Full Stack Developer
-education: Bachelor of Computer Science
-company: -
+## 💼 Experience
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Data Engineering",
-    "DevOps"
-  ]
+**Intern, PT Perkebunan Nusantara IV Regional III** (Jan – Feb 2025)
+Built a web dashboard prototype monitoring power meter voltage in real time via an MQTT broker, and verified dashboard values against actual meter readings.
 
-technical_background:
-  [
-    "Full Stack Developer",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet of Things"
-  ]
+**Programmer, Reservation System · Homey Café** (Jul – Nov 2025)
+Developed the café's reservation system end to end, from requirements gathering with the owner and SRS documentation to DOKU payment integration and Pest test coverage.
 
-currently_learning:
-  [
-    "Docker",
-    "React Bits"
-  ]
+---
 
-2026 Goals:
-  [
-    "Create 10+ Projects",
-    "Learn at least 5-10 new Technologies"
-  ]
+## 🛠️ Skills
 
-hobbies:
-  [
-    "Adrenaline Sports",
-    "Cinema",
-    "Skateboarding",
-    "Art",
-    "Hiking"
-  ]
-````
+**Languages**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-<!-- https://devicon.dev/ -->
+**Backend & Frameworks**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-<h2>&nbsp;Some Tools I Have Used and Learned</h2>
+**Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring boot" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij idea" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-</p>
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-<img src="https://raw.github.com/Kornelius1/Kornelius1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+**Testing & QA**
+![Pest](https://img.shields.io/badge/Pest-F472B6?style=flat&logo=pestphp&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=fadeIn"
-    width="100%"
-  />
-</p>
+**Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
+**Also:** REST API design and integration · Payment gateway (DOKU) · MQTT/IoT · Machine Learning with Python · SRS, use case and activity diagrams, user guides · Agile/Scrum
+
+---
+
+## 🎓 Education & Certifications
+
+**Universitas Riau**, Bachelor of Computer Science, Information Systems (2022 – 2026), GPA 3.73/4.00
+
+- Oracle Cloud Infrastructure AI Certified Foundations Associate
+- Oracle Cloud Infrastructure Foundation I & II
+- Digital Marketing Competency Certificate (BNSP)
+- Kickstart Fullstack Web Development Journey
+- Java Programming & Fundamentals
+
+---
+
+## 📚 Currently Learning
+
+Docker · React Bits · Machine Learning · Data Engineering
